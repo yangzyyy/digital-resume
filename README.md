@@ -4,7 +4,7 @@
 
 # ZHANG YOUYANG
 
-* [LinkedIn Profile](www.linkedin.com/in/youyang-zhang) 
+* LinkedIn Profile: www.linkedin.com/in/youyang-zhang
 
 ## Awards
 

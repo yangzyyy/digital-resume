@@ -61,7 +61,8 @@
 
 #### Quality System Engineer (Fabrinet West, Oct 2019 - Mar 2020)
 
-* Main responsibility covers data Analysis on Manufacturing Productivity                                                         * Standardized, cleansed, and consolidated siloed excel spreadsheets owned by individual manufacturing operators into a single csv using Python.
+* Main responsibility covers data Analysis on Manufacturing Productivity                                                         
+* Standardized, cleansed, and consolidated siloed excel spreadsheets owned by individual manufacturing operators into a single csv using Python.
 * Parameterized Python script to allow producing productivity reports grouped by a selection of input parameters, such as employee name and product ID, which helped management optimize resource planning. 
 * Documented future tech visions for moving local python scripts into a minimal website in production environment.
 

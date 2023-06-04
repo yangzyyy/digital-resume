@@ -20,7 +20,7 @@
 * Relevant Courses: Big Data Analytics Technology, Deep Leaning and Applications, Visual Data Processing
 ####  University of California, Berkeley (California, USA, Aug 2018 - May 2019)
 * MEng in Industrial Engineering and Operations Research
-* •	Relevant Courses:  Data Analysis Application, Optimization Analytics, Leadership Bootcamp
+* Relevant Courses:  Data Analysis Application, Optimization Analytics, Leadership Bootcamp
 ####  Purdue University (Indiana, USA, Aug 2014 - May 2018)
 * Bachelor of Engineering, Industrial Engineering
 * Dean's List & Semester Honors
